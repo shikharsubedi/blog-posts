@@ -1,4 +1,8 @@
-# A simple blog with posts using react redux
+# A simple posts page using react redux
+
+This project uses the apis provided by [jsonPlaceholder api](https://jsonplaceholder.typicode.com) to create a page with a list of 100 posts along with the user name.
+it uses the `/posts` endpoint to fetch the posts and `/users/${id}` endpoint to fetch a user
+
 
 ## Available Scripts
 
